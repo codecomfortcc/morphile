@@ -1,6 +1,6 @@
 # 🧩 Morphile — The All-in-One Desktop File Converter
 
-![Tauri](https://img.shields.io/badge/Tauri-v2-blue.svg) ![React](https://img.shields.io/badge/React-Typescript-blue.svg) ![Rust](https://img.shields.io/badge/Rust-Backend-orange.svg) ![License](https://img.shields.io/github/license/codecomfortcc/Morphile)
+![Tauri](https://img.shields.io/badge/Tauri-v2-blue.svg) ![React](https://img.shields.io/badge/React-Typescript-blue.svg) ![Rust](https://img.shields.io/badge/Rust-Backend-orange.svg) ![License](https://img.shields.io/github/license/codecomfortcc/morphile)
 
 **Morphile** is a modern, privacy-first desktop application built with Tauri + React + TypeScript + Rust that offers powerful tools to convert, compress, merge, and edit PDFs, images, and videos — all locally on your machine.
 
